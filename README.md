@@ -58,6 +58,27 @@ I have a strong interest in studying Spanish, as well as Northern European langu
 
 ---
 
+## 🤝 Public Causes & Charity Involvement
+
+I actively participate in social and charitable initiatives that reflect my values and sense of responsibility toward the community. Here are some of the causes I’ve supported or initiated:
+
+### 🌍 Sunay Sabriev |  "752 Books for Chitalishte 'Prosveta' in Glodzhevo (Community Cultural Center)" - Donation Campaign 
+**Role:** Organizer
+
+**Description:** In late 2020, I initiated a nationwide book donation campaign titled "752 Books for Chitalishte 'Prosveta' in Glodzhevo (Community Cultural Center)" - with the goal of collecting 752 books for the underfunded community library in the town of Glodzhevo, Bulgaria. What began as a modest idea quickly grew into a powerful collective movement. Thanks to the overwhelming support from citizens across the country—including individuals who personally traveled to Ruse to donate in person—the campaign exceeded all expectations, gathering nearly 1,800 books.
+
+The initiative received official support from the Municipality of Ruse, with the Mayor of Ruse, Mr. Pencho Milkov, personally participating in the effort. With the municipality's help, books were successfully delivered to the community centers in Glodzhevo and the nearby village of Shtarklevo.
+
+This campaign stands as an example of how one idea, when fueled by determination and community spirit, can grow into a movement that connects people from all walks of life. It taught me that with courage and consistency, meaningful change is always possible.
+**Link(s):**  
+- **News coverage / article** [Municipality Of Ruse](https://obshtinaruse.bg/kmetat-pencho-milkov-dari-knigi-za-fonda-na-chitalishteto-v-grad-glodzhevo) 
+- [Donation certificate](https://github.com/ssabriev/Professional-Certificates-Portfolio/tree/main/Books_For_Glodzhevo)
+
+---
+
+*More campaigns and causes will be added as I continue contributing to meaningful efforts in my community and beyond.*
+
+
 ### 🛠️ Skills & Technologies
 
 - Customer Relationship Management (CRM)  
